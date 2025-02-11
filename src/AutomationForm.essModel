@@ -1,0 +1,102 @@
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
+[Box: ::Default - ::<<Unknown>>::AbstractTableModel]
+X=10
+Y=199
+
+[Box: ::Default - ::<<Unknown>>::ActionListener]
+X=1489
+Y=571
+
+[Box: ::Default - ::<<Unknown>>::JFrame]
+X=1474
+Y=460
+
+[Box: ::Default - ::<<Unknown>>::Runnable]
+X=958
+Y=283
+
+[Box: ::Default - ::<<Unknown>>::Thread]
+X=1217
+Y=715
+
+[Box: ::Default - ::Default::AutomationForm]
+X=1728
+Y=254
+
+[Box: ::Default - ::Default::BinaryTree]
+X=736
+Y=721
+
+[Box: ::Default - ::Default::BTNode]
+X=2012
+Y=40
+
+[Box: ::Default - ::Default::ChatClientThread1]
+X=1214
+Y=542
+
+[Box: ::Default - ::Default::ChatClientThread2]
+X=1490
+Y=657
+
+[Box: ::Default - ::Default::ChatServer]
+X=961
+Y=351
+
+[Box: ::Default - ::Default::ChatServerThread]
+X=957
+Y=637
+
+[Box: ::Default - ::Default::DList]
+X=740
+Y=156
+
+[Box: ::Default - ::Default::FileManager]
+X=20
+Y=984
+
+[Box: ::Default - ::Default::Main]
+X=1204
+Y=326
+
+[Box: ::Default - ::Default::MainForm]
+X=1205
+Y=435
+
+[Box: ::Default - ::Default::MyModel]
+X=20
+Y=304
+
+[Box: ::Default - ::Default::Node]
+X=736
+Y=341
+
+[Box: ::Default - ::Default::ProcessLog]
+X=734
+Y=532
+
+[Box: ::Default - ::Default::UIBuilderLibrary]
+X=1462
+Y=237
+
+[Diagram: ::Default]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
+[Box:  - ::Default]
+X=20
+Y=40
+
+[Diagram: ]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
